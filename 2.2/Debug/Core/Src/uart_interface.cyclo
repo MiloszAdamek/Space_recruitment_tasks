@@ -1,0 +1,5 @@
+../Core/Src/uart_interface.c:19:6:UART_Interface_Init	1
+../Core/Src/uart_interface.c:25:6:UART_Register_Command	2
+../Core/Src/uart_interface.c:34:6:UART_Process_Input	6
+../Core/Src/uart_interface.c:67:6:UART_RxCpltCallback	7
+../Core/Src/uart_interface.c:87:6:help_command	2

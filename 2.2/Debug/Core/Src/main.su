@@ -1,0 +1,8 @@
+../Core/Src/main.c:59:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/main.c:75:9:led_on	24	static
+../Core/Src/main.c:68:5:main	64	static
+../Core/Src/main.c:80:9:led_off	24	static
+../Core/Src/main.c:127:6:SystemClock_Config	88	static
+../Core/Src/main.c:168:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:216:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:247:6:Error_Handler	4	static,ignoring_inline_asm
