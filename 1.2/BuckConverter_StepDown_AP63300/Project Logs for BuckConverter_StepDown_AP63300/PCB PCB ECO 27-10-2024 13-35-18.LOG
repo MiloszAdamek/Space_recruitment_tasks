@@ -1,0 +1,9 @@
+Added Component: Designator=IN_GND(PCBComponent_1)
+Added Component: Designator=IN_VCC(PCBComponent_1)
+Added Component: Designator=OUT_GND(PCBComponent_1)
+Added Component: Designator=OUT_VCC(PCBComponent_1)
+Added Pin To Net: NetName=VIN Pin=F1-1
+Added Pin To Net: NetName=GND Pin=IN_GND-1
+Added Pin To Net: NetName=VIN Pin=IN_VCC-1
+Added Pin To Net: NetName=GND Pin=OUT_GND-1
+Added Pin To Net: NetName=VOUT Pin=OUT_VCC-1
